@@ -1,2 +1,2 @@
 # vue-seeds
-a bioplate for multipage vue project
+a boilerplate for multipage vue project
